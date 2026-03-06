@@ -1,4 +1,10 @@
 # VibeFigma - Figma to React Converter
+> **Want to skip the setup?** Try VibeFigma instantly in the cloud - [Import from Figma](https://app.vibeflow.ai) is built directly into **[vibeflow.ai](https://app.vibeflow.ai)**. No installation needed, just paste your Figma URL and go.
+
+[![npm](https://img.shields.io/npm/v/vibefigma)](https://www.npmjs.com/package/vibefigma)
+[![stars](https://img.shields.io/github/stars/vibeflowing-inc/vibe_figma?style=social)](https://github.com/vibeflowing-inc/vibe_figma)
+[![license](https://img.shields.io/github/license/vibeflowing-inc/vibe_figma)](LICENSE)
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/Ctm2A2uEaq)
 
 Transform your Figma designs into production-ready React components with Tailwind CSS automatically.
 
@@ -213,3 +219,14 @@ This project includes code derived from [css-to-tailwindcss](https://github.com/
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the [LICENSE](LICENSE) file for the full license text.
 
 See the [NOTICE](NOTICE) file for details about third-party code used in this project.
+
+## Built by Vibeflow
+
+VibeFigma is the open-source core powering **[vibeflow.ai](https://vibeflow.ai)**.
+For custom work or enterprise needs, reach out to Alessia & Elia directly:  
+📩 [founders@vibeflow.ai](mailto:founders@vibeflow.ai)
+
+[![Follow Nazeem](https://img.shields.io/twitter/follow/nazeem?style=social)](https://x.com/n4ze3m)
+[![Follow Alessia](https://img.shields.io/twitter/follow/alessiapacca?style=social)](https://x.com/alessiapacca)
+[![Follow Elia](https://img.shields.io/twitter/follow/eliasaquand?style=social)](https://x.com/eliasaquand)
+
